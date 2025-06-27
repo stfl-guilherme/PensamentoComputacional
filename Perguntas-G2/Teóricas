@@ -1,0 +1,23 @@
+1 - O append serve para apenas adicionar um lemento na lista, já o insert é mias especifico, nele você
+pode escolher onde pode adicionar
+
+4 - no for pode se navega diretamente dentro de uma lista, já o while é por indices.
+
+6 - a) facilitar na hora da comparação
+    b) separa as listas por indice para poder calcular com mais facilidade o KDA de cada jogador
+
+9 - deixar o código mais estruturado, fazendo cada ação na sua devida função, ajuda a facilitar a 
+solução de problemas
+
+11 - 
+    Verdadeiro
+    Verdadeiro
+    Verdadeiro
+    Verdadeiro
+    Falso
+
+14 - Alternativa A 
+
+16 - Alternativa C 
+
+17 - O pop você remove o indice da lista já o remove você remove por iten 
